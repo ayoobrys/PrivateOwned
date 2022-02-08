@@ -1,0 +1,14 @@
+
+body {
+    background-color: beige;
+}
+
+.PO1 {
+    border-top-style: solid;
+    border-top-color: brown;
+    border: dotted 50px green;
+    background-color: red;
+}
+.pic {
+    padding: 20px; margin: 20px;
+}
