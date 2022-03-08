@@ -1,0 +1,10 @@
+img {
+        width: 30%;
+        margin: auto;
+        height: auto;
+}
+
+body {
+    background-color: burlywood; 
+    background: linear-gradient(to bottom right, tan, white, blue);
+}
