@@ -6,7 +6,7 @@ body {
     border-top-style: solid;
     border-top-color: brown;
     border: solid 50px beige;
-    background-color: burlywood;
+    background-color: navy;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 .pic {
@@ -361,3 +361,4 @@ margin: 40px 40px;
     text-align: center;
   }
 }
+
