@@ -362,13 +362,13 @@ margin: 40px 40px;
   }
 }
 
-img {
+.img-catalog img {
   width: 30%;
   margin: auto;
   height: auto;
 }
 
-body {
+.catalog-body {
 background-color: burlywood; 
 background: linear-gradient(to bottom right, tan, white, blue);
 }
